@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "15073685156",
+    "project_id": "aptnote25",
+    "storage_bucket": "aptnote25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15073685156:android:2d274eba08bd7fdb774031",
+        "android_client_info": {
+          "package_name": "com.example.flutter_workshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUnaKJdU4fKjXrNMS0xy9iCHwN5Wns-vI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
